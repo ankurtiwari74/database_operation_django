@@ -1,0 +1,1 @@
+web: gunicorn database_operation_django.wsgi
